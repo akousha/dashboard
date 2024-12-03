@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "spfx-dashboard",
+    "libraryId": "367646a0-eadd-4fa1-bbe4-24d390ce9f28",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-dashboard",
+    "solutionShortDescription": "spfx-dashboard description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
